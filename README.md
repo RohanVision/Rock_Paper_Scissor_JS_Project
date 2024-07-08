@@ -14,3 +14,8 @@ Recorded highest score in the browser's localStorage.
 If-else, forEach loop, eventlistener, function
 
 The technologies used were HTML, CSS, and JavaScript.
+
+## ScreenShots 
+
+![image](https://github.com/RohanVision/Rock_Paper_Scissor_JS_Project/assets/31649281/b813c5ca-79e5-4ac0-9fd8-568a5c593541)
+
