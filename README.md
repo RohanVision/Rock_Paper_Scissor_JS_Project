@@ -16,6 +16,12 @@ If-else, forEach loop, eventlistener, function
 The technologies used were HTML, CSS, and JavaScript.
 
 ## ScreenShots 
-
+- Game Page
 ![image](https://github.com/RohanVision/Rock_Paper_Scissor_JS_Project/assets/31649281/b813c5ca-79e5-4ac0-9fd8-568a5c593541)
+
+
+- Home Page
+![image](https://github.com/RohanVision/Rock_Paper_Scissor_JS_Project/assets/31649281/d69142ed-bbe9-40d5-9b06-9954bd276d94)
+
+
 
